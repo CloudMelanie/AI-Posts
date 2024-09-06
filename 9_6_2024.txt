@@ -1,0 +1,10 @@
+Researchers have determined that approximately 57% of all "web-based text"
+have been translated. However, these translations have been inaccurate and
+overall very poorly done. This suggests that the translations were performed
+by AI. The decrease in quality is a result of something called "model collapse".
+Essentially, generative AI produces data, and when it is trained on that data,
+it produces less accurate data as a result. The cycle repeats until the AI is
+returning something nearly intelligible. This is a problem, because an AI expert
+predicts that by 2025, nearly 90% of content on the internet will be AI generated.
+
+Source: https://www.forbes.com/sites/torconstantino/2024/08/26/is-ai-quietly-killing-itself-and-the-internet/?ss=ai \

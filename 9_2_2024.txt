@@ -1,0 +1,15 @@
+As of August 29th, Google has met with an AI startup in India
+intending to use "bioacoustics" to detect and diagnose early signs
+of disease, all based on a quick 10-second audio sample. The startup
+(Salicit Technologies) has an app called "Swaasa" (named after the
+Sanskrit word for "breath") that tests for diseases "with a 94%
+accuracy." The app will hopefully be able to detect early signs of
+tuberculosis (TB), a highly contagious, deadly disease, but one that
+is easily treatable. Google has trained its AI model on publically
+accessible audio clips from sources such as YouTube. Currently,
+"4,500 people die daily" due to TB, simply due to lack of diagnoses.
+If Swaasa continues to be successful and is accepted by healthcare
+professionals, it could cause thousands of lives to be saved every day.
+
+
+Source: https://www.bloomberg.com/news/newsletters/2024-08-29/google-and-others-are-developing-ai-that-can-hear-signs-of-sicknessLinks
